@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./odes00epodesofhorahorarich_0419.png"; bbox 0 0 2072 3542; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 610 244 1718 300">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 610 244 1718 300">
+     <span class='ocr_line' id='line_1_1' title="bbox 610 244 1718 300; baseline -0.003 -13"><span class='ocrx_word' id='word_1_1' title='bbox 610 245 776 287; x_wconf 85' lang='lat' dir='ltr'><strong>BOOK</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 816 244 1088 286; x_wconf 78' lang='lat' dir='ltr'>1v.-0DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1124 245 1177 285; x_wconf 88' lang='lat' dir='ltr'>v.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1622 245 1718 300; x_wconf 90' lang='lat'>371</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 393 382 1387 683">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 393 382 1387 612">
+     <span class='ocr_line' id='line_1_2' title="bbox 394 382 1381 451; baseline -0.001 -15"><span class='ocrx_word' id='word_1_5' title='bbox 394 390 607 451; x_wconf 80' lang='lat' dir='ltr'>Longas,</span> <span class='ocrx_word' id='word_1_6' title='bbox 636 382 681 437; x_wconf 90' lang='grc' dir='ltr'>Ο</span> <span class='ocrx_word' id='word_1_7' title='bbox 707 387 911 449; x_wconf 85' lang='lat' dir='ltr'><strong>utinam,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 939 388 1040 436; x_wconf 87' lang='lat' dir='ltr'>dux</span> <span class='ocrx_word' id='word_1_9' title='bbox 1063 387 1211 447; x_wconf 85' lang='lat' dir='ltr'>bone,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1239 385 1381 435; x_wconf 84' lang='lat' dir='ltr'>ferias</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 394 467 1387 532; baseline -0.001 -13"><span class='ocrx_word' id='word_1_11' title='bbox 394 473 602 519; x_wconf 85' lang='lat' dir='ltr'>Praestes</span> <span class='ocrx_word' id='word_1_12' title='bbox 629 469 889 532; x_wconf 85' lang='lat' dir='ltr'>Hesperiae</span> <span class='ocrx_word' id='word_1_13' title='bbox 914 473 922 518; x_wconf 69' lang='grc' dir='ltr'>ἒ</span> <span class='ocrx_word' id='word_1_14' title='bbox 960 467 1171 518; x_wconf 86' lang='lat' dir='ltr'><strong>dicimus</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1195 468 1387 532; x_wconf 85' lang='lat' dir='ltr'>integro</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 393 548 1220 612; baseline -0.004 -12"><span class='ocrx_word' id='word_1_16' title='bbox 393 551 518 601; x_wconf 86' lang='lat' dir='ltr'>Sicci</span> <span class='ocrx_word' id='word_1_17' title='bbox 543 567 690 600; x_wconf 81' lang='lat' dir='ltr'><strong>mane</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 714 551 810 612; x_wconf 83' lang='lat' dir='ltr'>die,</span> <span class='ocrx_word' id='word_1_19' title='bbox 837 550 1046 600; x_wconf 89' lang='lat' dir='ltr'>dicimus</span> <span class='ocrx_word' id='word_1_20' title='bbox 1070 548 1220 611; x_wconf 82' lang='lat' dir='ltr'>uvidi,</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 529 633 1201 683">
+     <span class='ocr_line' id='line_1_5' title="bbox 529 633 1201 683; baseline -0.004 0"><span class='ocrx_word' id='word_1_21' title='bbox 529 635 654 683; x_wconf 88' lang='lat' dir='ltr'>Cum</span> <span class='ocrx_word' id='word_1_22' title='bbox 681 634 764 682; x_wconf 82' lang='lat' dir='ltr'>Sol</span> <span class='ocrx_word' id='word_1_23' title='bbox 790 634 997 682; x_wconf 81' lang='lat' dir='ltr'>Oceano</span> <span class='ocrx_word' id='word_1_24' title='bbox 1022 633 1201 681; x_wconf 87' lang='lat' dir='ltr'><strong>subest.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
